@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Shohrat Waquar 👋
 
-<!--
-**Shohrat-Waquar/Shohrat-Waquar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech Graduate
+- 💻 Aspiring Data Analyst
+- 📊 Learning Python, SQL, Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shohrat-waquar-b5a813288/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/whoiswaquar/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https:github.com/Shohrat-Waquar)
+
+---
+
+## 🛠 Skills
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Cleaning
+- Dashboard Creation
+
+---
+
